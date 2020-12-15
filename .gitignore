@@ -1,2 +1,2 @@
-*.class
-*.log
+./sbt-cheatsheet/hello-world/project
+./sbt-cheatsheet/hello-world/target
